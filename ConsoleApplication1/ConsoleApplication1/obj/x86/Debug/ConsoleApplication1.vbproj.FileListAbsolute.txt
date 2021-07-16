@@ -1,0 +1,10 @@
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Form1.resources
+C:\Users\KING_PC\Desktop\Student Record System\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Form3.resources

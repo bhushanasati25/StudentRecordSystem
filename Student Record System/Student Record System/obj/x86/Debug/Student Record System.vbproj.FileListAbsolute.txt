@@ -1,0 +1,36 @@
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.Resources.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.vbproj.GenerateResource.Cache
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.xml
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.exe
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.xml
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.pdb
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.loginForm.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.AllRecordForm3.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.DashBoardForm4.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\bin\Debug\DBSTUDENT.mdb
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.NewustudentaddForm2.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.Report.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.LC.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.Leaving_Certificate_form.resources
+C:\Users\KING_PC\Desktop\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.vbprojResolveAssemblyReference.cache
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.exe.config
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.exe
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.xml
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.pdb
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\bin\Debug\DBSTUDENT.mdb
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.exe
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.pdb
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\bin\Debug\Student Record System.xml
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.vbprojResolveAssemblyReference.cache
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.Leaving_Certificate_form.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.Resources.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.Report.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.AllRecordForm3.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.DashBoardForm4.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.LC.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.loginForm.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student_Record_System.NewustudentaddForm2.resources
+D:\Polytechnic Work\2nd Year\4th Sem\Micro Porject\VB.NET\Project\Student Record System\Student Record System\Student Record System\obj\x86\Debug\Student Record System.vbproj.GenerateResource.Cache
